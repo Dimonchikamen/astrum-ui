@@ -1,0 +1,27 @@
+{
+  "name": "astrum-ui",
+  "version": "0.1.0",
+  "description": "ui components for application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimonchikamen/astrum-ui.git"
+  },
+  "keywords": [
+    "ui",
+    "astrum",
+    "astrum-ui",
+    "components",
+    "react",
+    "react-components"
+  ],
+  "author": "Dmitry Chechikhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimonchikamen/astrum-ui/issues"
+  },
+  "homepage": "https://github.com/Dimonchikamen/astrum-ui#readme"
+}
